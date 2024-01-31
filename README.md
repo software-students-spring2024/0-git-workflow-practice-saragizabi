@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Link to [article](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/).
+
+I find it interesting that although there is emphasis on how good of a “coder” someone is, many of the concepts most important for a good programmer or software engineer deal with specific thought processes. For example, you can be the fastest to write code for a problem but still be a less effective way in comparison to a code that is easier to implement while also being less complex. This article is helpful in distinguishing the difference between a more vs less successful programmer and mentioning key concepts that can be more useful than knowing different methods/functions/languages, etc. 
